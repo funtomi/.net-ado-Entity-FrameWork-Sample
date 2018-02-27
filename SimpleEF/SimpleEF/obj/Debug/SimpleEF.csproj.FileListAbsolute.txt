@@ -1,0 +1,1 @@
+F:\工作\2018\.net framework学习\Code\.net-ado-Entity-FrameWork-Sample\SimpleEF\SimpleEF\bin\Debug\SimpleEF.exe.config
