@@ -1,1 +1,5 @@
 F:\工作\2018\.net framework学习\Code\.net-ado-Entity-FrameWork-Sample\SimpleEF\SimpleEF\bin\Debug\SimpleEF.exe.config
+F:\工作\2018\.net framework学习\Code\.net-ado-Entity-FrameWork-Sample\SimpleEF\SimpleEF\obj\Debug\SimpleEF.csprojResolveAssemblyReference.cache
+F:\工作\2018\.net framework学习\Code\.net-ado-Entity-FrameWork-Sample\SimpleEF\SimpleEF\obj\Debug\SimpleEF.Form1.resources
+F:\工作\2018\.net framework学习\Code\.net-ado-Entity-FrameWork-Sample\SimpleEF\SimpleEF\obj\Debug\SimpleEF.Properties.Resources.resources
+F:\工作\2018\.net framework学习\Code\.net-ado-Entity-FrameWork-Sample\SimpleEF\SimpleEF\obj\Debug\SimpleEF.csproj.GenerateResource.Cache
